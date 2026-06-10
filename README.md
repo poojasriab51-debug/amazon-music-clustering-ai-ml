@@ -1,6 +1,5 @@
 # Amazon Music Clustering AI/ML (Streamlit)
 
-
 This repo contains a Streamlit app to explore clustering results for the Amazon music dataset.
 
 # Music Clustering and Recommendation using K-Means
@@ -114,4 +113,3 @@ Through this project, I learned:
 ## Conclusion
 
 This project successfully grouped songs into meaningful clusters using K-Means Clustering. The results demonstrate how unsupervised learning can uncover hidden patterns in music data and support music discovery, recommendation, and organization systems.
-
