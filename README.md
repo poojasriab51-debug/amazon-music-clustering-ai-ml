@@ -1,4 +1,5 @@
-# Amazon Music Clustering (Streamlit)
+# Amazon Music Clustering AI/ML (Streamlit)
+
 
 This repo contains a Streamlit app to explore clustering results for the Amazon music dataset.
 
